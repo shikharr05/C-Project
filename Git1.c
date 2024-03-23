@@ -5,4 +5,5 @@ int main()
 	i=5;
 	j=6;
 	printf("%d",i+j);
+	printf("%d", i-j);
 }
